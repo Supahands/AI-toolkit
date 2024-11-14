@@ -4,7 +4,7 @@ This is an open source repo where SUPA host all of the useful notebook and scrip
 # Notebooks
 ## Large Language Model (LLM)
 ### Fine Tuning 🛠️
-| Models  | Techniques | Notebooks | 
+| Model  | Technique | Notebook | 
 | ------------- | ------------- | ------------- |
 | Llama 3.2  | Qlora | [Kaggle](https://www.kaggle.com/code/weiwen21/llm-fine-tune-demo)  |
 
