@@ -11,7 +11,7 @@ This is an open source repo where SUPA host a collection of helpful guides, note
 ### Evaluation
 | Dataset  | Model | Metrics | Notebook | 
 | ------------- |------------- | ------------- | ------------- |
-| Advent of Code | Llama 3.3, DeepSeek V3, Qwen2.5-Coder, GPT-4o-mini, DeepSeek R1  | pass@1 | [Kaggle](https://www.kaggle.com/code/weiwen21/advent-of-code-evaluation)  |
+| Advent of Code | Llama 3.3 70B, DeepSeek V3, Qwen2.5-Coder, GPT-4o-mini, DeepSeek R1  | pass@1 | [Kaggle](https://www.kaggle.com/code/weiwen21/advent-of-code-evaluation)  |
 
 # Guides
 ## Computer Vision 🤖
